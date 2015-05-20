@@ -6,11 +6,6 @@
 
 ### With contributions from individuals (thanks!)
 
-#### Special note
-
-If you have arrived here by https://github.com/tonymorris/course and you are
-looking for the *exercises* (not the answers), please go to
-https://github.com/NICTA/course
 
 #### Introduction
 
